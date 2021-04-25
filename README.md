@@ -9,7 +9,7 @@
 - Lecture 6: Means — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Means) - Video: [▶️](https://www.youtube.com/watch?v=XYbsBsRtCjw)
 - Lecture 7: Variance — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Variance) - Video: [▶️](https://www.youtube.com/watch?v=0AWY0odmjSs)
 - Lecture 8: Statistical Moments — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Statistical_Moments) - Video: [▶️](https://www.youtube.com/watch?v=mkVA_xUWDI0)
-- Lecture 9: Linear Correlation Analysis — [Notebooks and HTML)(https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Linear_Correlation_Analysis)- Video: [▶️](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)
+- Lecture 9: Linear Correlation Analysis — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Linear_Correlation_Analysis)- Video: [▶️](https://www.youtube.com/watch?v=GM76JkrVmRk?t=2m6s)
 - Lecture 10: Instability of Estimates — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Instability_of_Estimates) - Video: [▶️](https://www.youtube.com/watch?v=2pbu3_6lF40)
 - Lecture 11: Random Variables — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Random_Variables)
 - Lecture 12: Linear Regression — [Notebooks and HTML](https://github.com/vtecftwy/quantopian/tree/master/notebooks/lectures/Linear_Regression) - Video: [▶️](https://www.youtube.com/watch?v=Af0l3TQJ3h8?t=3m36s)
